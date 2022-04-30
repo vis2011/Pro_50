@@ -1,0 +1,52 @@
+body {
+    justify-content: center;
+    background: linear-gradient( rgb(45, 94, 255), rgb(35, 204, 255));
+    overflow-x: hidden;
+  }
+
+  h1 {
+    font-family: "Poppins", sans-serif;
+    color: rgb(100, 237, 134);
+      text-shadow: 4px 4px yellow;
+    font-size: 100px;
+    padding-left: 100px;
+  }
+
+  .h1 {
+   font-family: 'Ms Madi', cursive ;
+    color: cornflowerblue;
+    text-shadow: 5px 5px yellow;
+    font-size: 25vh;
+    padding-left: 100px;
+  }
+
+  .fbn{
+      display: flex;
+      flex-direction: row;
+       margin-top: 20px;
+       border-radius: 5px;
+       padding-top: 20px;
+      background: linear-gradient(to top ,  rgb(0, 255, 242), rgb(128, 247, 255));
+  }
+
+  .fd{
+      display: flex;
+    flex-direction: column;
+  }
+
+  a{
+      text-decoration: none;
+  }
+
+  img{
+      padding-bottom: 40px;
+      padding-left: 50px;
+  }
+
+  .fb{
+      padding-left: 60px;
+  }
+
+  .insta{
+    padding-left: 60px;
+}
